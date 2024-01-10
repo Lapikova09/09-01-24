@@ -18,6 +18,9 @@ button{
     font-size: 40px;
     font-style: italic;
 }
+.problem{
+    margin-top: 10px;
+}
 .div{
     margin-left: 10px;
 }
